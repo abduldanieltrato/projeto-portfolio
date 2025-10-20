@@ -50,8 +50,8 @@ nav#menu a {
   text-decoration: none;
   color: var(--texto-inverso);
   font-weight: 600;
-  padding: 12px 15px;
-  border-radius: 5px;
+  padding: 5px 5px;
+  border-radius: 10px;
   transition: background-color .5s, color .5s;
 }
 
