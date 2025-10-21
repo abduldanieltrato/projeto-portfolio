@@ -153,7 +153,7 @@ article h2 {
 #skill-container {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 30px;
+  gap: 10px;
   padding: 10px;
 }
 
@@ -190,6 +190,5 @@ article h2 {
   
   #skill-container {
     grid-template-columns: 1fr 1fr;
-    gap: 60px;
   }
 }
